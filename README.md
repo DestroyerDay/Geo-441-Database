@@ -7,7 +7,8 @@ This repository contains coursework and projects completed for GEO 441/541 at Mi
 - **Basic Mapping**  
   Introductory cartography using ArcGIS Pro, including layout design and map export.
 
-  Week 3 Assignment on making map projections [Week 3 Assignment: Projections.ipynb](https://github.com/DestroyerDay/Geo-441-Database/blob/main/Week%203%20assignment%3A%20Projections.ipynb)
+Week 3 Assignment: Map Projections
+Map projections are methods of transforming the Earth's 3D surface onto a 2D map. Each projection distorts some combination of area, shape, distance, or direction to preserve others, depending on the map's purpose. [Week 3 Assignment: Projections.ipynb](https://github.com/DestroyerDay/Geo-441-Database/blob/main/Week%203%20assignment%3A%20Projections.ipynb)
 
 - **Build Selections and Queries**  
   Creating attribute and spatial queries to select and analyze features in a geodatabase.
