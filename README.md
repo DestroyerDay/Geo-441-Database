@@ -7,6 +7,8 @@ This repository contains coursework and projects completed for GEO 441/541 at Mi
 - **Basic Mapping**  
   Introductory cartography using ArcGIS Pro, including layout design and map export.
 
+  Week 3 Assignment on making map projections [Week 3 Assignment: Projections](https://github.com/your-username/your-repo/blob/main/Assignments/week3_projections.ipynb)
+
 - **Build Selections and Queries**  
   Creating attribute and spatial queries to select and analyze features in a geodatabase.
 
