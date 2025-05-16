@@ -43,7 +43,7 @@ This repository contains coursework and projects completed for GEO 441/541 at Mi
 
     This assignment focused on creating and interpreting multispectral band composite images using raster data. It explored how different band combinations 
     highlight various landscape features in satellite imagery.  Here is my section on band composites:  
-    [**View the notebook on band composites**](https://github.com/DestroyerDay/Geo-441Database/blob/main/Week%2011%20assignment%3A%20Understand%20Band%20Composite.ipynb)
+    [**View the notebook on band composites**](https://github.com/DestroyerDay/Geo-441-Database/blob/main/Week%2011%20assignment%3A%20Understand%20Band%20Composite.ipynb)
 
   - Week 13 Assignment: Terrain Analysis and Zonal Stats  
 
