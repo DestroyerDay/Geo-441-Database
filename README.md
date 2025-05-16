@@ -7,10 +7,12 @@ This repository contains coursework and projects completed for GEO 441/541 at Mi
 - **Basic Mapping**  
   Introductory cartography using ArcGIS Pro, including layout design and map export.
   - Week 1 Assignment: Basic Mapping
+
     This assignment introduced the ArcGIS Pro interface and basic mapping functions through the creation of three maps: Hugo Roads and Lakes, Cloquet Forestry Center, and Vegetation Polygons.  
     [View the notebook on basic mapping](https://github.com/DestroyerDay/Geo-441-Database/blob/main/Week%201%20Basic%20Mapping.ipynb)
     
   - Week 3 Assignment: Map Projections
+
     Map projections are methods of transforming the Earth's 3D surface onto a 2D map. Each projection distorts some combination of area, shape, distance, or direction to preserve others, depending on the map's 
     purpose. Here is a link to my colab notebook on map projections [View the notebook on projections](https://github.com/DestroyerDay/Geo-441-Database/blob/main/Week%203%20assignment%3A%20Projections.ipynb)
 
