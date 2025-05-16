@@ -39,8 +39,20 @@ This repository contains coursework and projects completed for GEO 441/541 at Mi
 
 - **Spatial Analysis for Raster Data**  
   Working with raster layers to conduct terrain analysis, reclassification, and raster math.
+  - Week 11 Assignment: Understand Band Composite**  
 
+    This assignment focused on creating and interpreting multispectral band composite images using raster data. It explored how different band combinations 
+    highlight various landscape features in satellite imagery.  Here is my section on band composites:  
+    [**View the notebook on band composites**](https://github.com/DestroyerDay/Geo-441Database/blob/main/Week%2011%20assignment%3A%20Understand%20Band%20Composite.ipynb)
 
+  - Week 13 Assignment: Terrain Analysis and Zonal Stats  
+
+    This assignment explored raster-based terrain analysis, including the generation of slope, aspect, and hillshade layers. It also introduced zonal statistics to 
+    summarize raster data by spatial units.  
+    Here is my section on terrain analysis and zonal stats:  
+    [**View the notebook on terrain analysis and zonal stats**](https://github.com/DestroyerDay/Geo-441-Database/blob/main/Week%2013%20assignment%3A%20Terrain%20Analysis%20and%20Zonal%20Stats.ipynb)
+
+This repository showcases my progress through the GEO 441B/541B course, highlighting key GIS concepts and hands-on skills using ArcGIS Pro and Google Colab. From basic mapping to complex raster and vector analysis, each assignment builds a foundation for real-world spatial problem-solving. I look forward to expanding on these techniques in future projects.
 
 ## Author
 
