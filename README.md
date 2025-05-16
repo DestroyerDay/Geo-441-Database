@@ -25,6 +25,17 @@ This repository contains coursework and projects completed for GEO 441/541 at Mi
 
 - **Spatial Analysis for Vector Data**  
   Performing overlays, buffering, spatial joins, and other vector-based analysis techniques.
+  - Week 4 Assignment: Georeferencing
+    
+    This assignment introduced the process of georeferencing scanned or unreferenced maps by aligning them to real-world coordinates using control points in ArcGIS 
+    Pro.  Here is my section on georeferencing  
+    [**View the notebook on georeferencing**](https://github.com/DestroyerDay/Geo-441-Database/blob/main/Week%204%20assignment%3A%20Georeferencing.ipynb)
+  - Week 10 Assignment: Spatial Analysis for Vector Data  
+
+    This assignment focused on performing spatial analysis using vector data. Tasks included creating buffers, overlay analysis, and spatial joins to extract and 
+    summarize geographic relationships.  
+    Here is my section on spatial analysis for vector data  
+    [**View the notebook on vector spatial analysis**](https://github.com/DestroyerDay/Geo-441-Database/blob/main/Week%2010%20assignment%3A%20Spatial%20Analysis%20for%20Vector%20Data.ipynb)
 
 - **Spatial Analysis for Raster Data**  
   Working with raster layers to conduct terrain analysis, reclassification, and raster math.
