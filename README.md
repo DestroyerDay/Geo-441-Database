@@ -25,8 +25,7 @@ This repository contains coursework and projects completed for GEO 441/541 at Mi
 - **Spatial Analysis for Raster Data**  
   Working with raster layers to conduct terrain analysis, reclassification, and raster math.
 
-- **Web-based Mapping**  
-  Publishing and sharing interactive maps using ArcGIS Online and web mapping platforms.
+
 
 ## Author
 
